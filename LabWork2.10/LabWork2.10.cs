@@ -135,7 +135,7 @@ namespace LabWork2._10
                 Console.WriteLine("Введите порядковый номер числа ряда Фибоначчи:");
                 int n = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine($"Число ряда Фибоначчи данного пор.номера равно {Fibonachi(n)}");
-
+                
             }
         }
     } }
